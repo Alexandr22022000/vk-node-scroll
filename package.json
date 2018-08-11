@@ -1,0 +1,23 @@
+{
+  "name": "main-vk-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 500,
+    "height": 200
+  },
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "express": "^4.16.3",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
